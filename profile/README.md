@@ -13,11 +13,12 @@
 
 #### 👉🏻 목표 ( 기대 효과 )
 
-1️⃣ **대기 시간 단축 (웨이팅 + 주문 후 발생하는 대기 시간)**: 음식점 이용자는 웨이팅 순서가 되었을때 앱을 통한 선불 주문으로 대기 시간을 단축할 수 있습니다.<br>
-2️⃣ **점주의 업무 효율성 증가**: 점주는 주문 및 웨이팅 관리를 한 곳에서 처리하여 업무를 더욱 효율적으로 수행할 수 있습니다.<br>
+1️⃣ **대기 시간 단축 (웨이팅 + 주문 후 대기 시간)**: 사용자는 웨이팅 순서가 되었을때 앱을 통한 선불 주문으로 대기 시간을 단축할 수 있습니다.<br>
+2️⃣ **점주의 업무 효율성 증가**: 점주는 주문 및 웨이팅 관리 및 정산을 한 곳에서 처리하여 업무를 더욱 효율적으로 수행할 수 있습니다.<br>
 3️⃣ **사용자 편의성 향상**: 사용자는 원하는 매장(거리,동네,좋아요 필터링 가능)을 선택하고 웨이팅 및 주문을 편리하게 할 수 있으며, 대기 순서를 확인할 수 있습니다.
 
-</aside>
+---
+
 ## 🧑‍🤝‍🧑 팀원 소개
 
 | <img src =https://avatars.githubusercontent.com/u/40691745 width="120" height="120"> | <img src =https://user-images.githubusercontent.com/49369306/195608027-5633bd06-1c29-4916-bf75-65567de3b2a5.png width="120" height="120"> | <img src =https://user-images.githubusercontent.com/67897318/209684717-bd1cb2f0-0f07-43f0-94a2-08f91c0a76f8.jpeg width="120" height="120"> | <img src =https://avatars.githubusercontent.com/u/4508765? width="120" height="120">| <img src =https://user-images.githubusercontent.com/67897318/209684716-5baf27b0-c344-4a99-9c98-fc5e9089829d.png width="120" height="120"> | <img src =https://i.imgur.com/tpr5jcv.png width="120" height="120"> |  
@@ -25,20 +26,17 @@
 |Front-End|Front-End|Front-End|Back-End|Back-End|Back-End|
 |[심상훈](https://github.com/SOPLAY)|[박석한](https://github.com/ill2sam)|[최수빈](https://github.com/Su-Bini)|[최병호](https://github.com/peppone-choi)|[조동현](https://github.com/jodonghyeon3)|[조현수](https://github.com/HyunsooZo)|
 
-
-<br><br>
-
-[//]: # (- 로그인 및 소셜로그인 / 마이페이지 / 알림 / 찜하기)
-
-[//]: # (- 체육관 검색&#40;내 주변 체육관&#41; / 체육관 상세정보 / 리뷰 / 체육관 예약 /)
-
-[//]: # (- 체육관 등록 / 예약 현황)
+---
 
 ## 🗼 Architecture
 ![ESC Structure drawio](https://drive.google.com/uc?export=view&id=1q9lEaJReMl7rtBkMqJ8_6g2zVrKygUHz)
 
+---
+
 ## 💽 ERD 구조
 ![db](https://drive.google.com/uc?export=view&id=1yzj4CGWa-oXWE3ZzvPjGFRHzjxqWQlaf)
+
+---
 
 ## 🧑🏻‍🔧 기술 스택
 ### Front-End
@@ -72,11 +70,13 @@
 ### Collaboration tool
 <img src="https://img.shields.io/badge/slack-4A154B?&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?&logo=notion&logoColor=white">
   
-<br/>
+---
 
 ## ⚙️ Api 명세서
 
 [API 명세서](https://www.notion.so/byeoungho-choi/07dc8ae9d90d4e6eb28b3d768529f311?v=c79e81c4cc794cb994abab9243fb6aa4&pvs=4)
+
+---
 
 ## 📱 Demo 앱 노출 위치 (큐오스크에 맞게 수정필요)
 
@@ -99,6 +99,8 @@
 |                   🏋🏿 체육관 등록 / 수정                  |                  ✅ 예약 현황                 | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
 | <img src="https://user-images.githubusercontent.com/99726297/209919918-dd6995a8-9d52-4d8c-975d-48cf15951797.gif" alt="유저_맞춤_술_추천" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209919079-8040b259-5f73-4f11-bafe-deaa4b540e56.gif" alt="관리자 체육관 예약 현황" width=80%>  | 
+
+---
 
 ## ☄️ Trouble Shooting 및 회고
 
