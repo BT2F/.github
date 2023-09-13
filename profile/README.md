@@ -4,9 +4,20 @@
 
 ## 📎 프로젝트 소개
 
-여기에 프로젝트 소개........... 적어주세여......
-<br><br>
+#### ⭐ 기획 배경
 
+대부분의 사람들은 효율적인 시간관리를 중요하게 생각하고 있습니다. <br>
+식당에서 웨이팅과 주문 과정에서 발생하는 시간을 줄이기 위해 전자 주문 시스템인 <br>
+**키오스크**와 **웨이팅** 서비스를 합쳐서 사용자가 방문하지 않고도 웨이팅을 하고, <br>
+본인의 차례가 왔을 때 스마트폰으로 주문을 할 수 있는 서비스를 통해 **시간을 효율적으로 활용 할 수 있는 방법**을 생각했습니다.
+
+#### 👉🏻 목표 ( 기대 효과 )
+
+1️⃣ **대기 시간 단축 (웨이팅 + 주문 후 발생하는 대기 시간)**: 음식점 이용자는 웨이팅 순서가 되었을때 앱을 통한 선불 주문으로 대기 시간을 단축할 수 있습니다.<br>
+2️⃣ **점주의 업무 효율성 증가**: 점주는 주문 및 웨이팅 관리를 한 곳에서 처리하여 업무를 더욱 효율적으로 수행할 수 있습니다.<br>
+3️⃣ **사용자 편의성 향상**: 사용자는 원하는 매장(거리,동네,좋아요 필터링 가능)을 선택하고 웨이팅 및 주문을 편리하게 할 수 있으며, 대기 순서를 확인할 수 있습니다.
+
+</aside>
 ## 🧑‍🤝‍🧑 팀원 소개
 
 | <img src =https://avatars.githubusercontent.com/u/40691745 width="120" height="120"> | <img src =https://user-images.githubusercontent.com/49369306/195608027-5633bd06-1c29-4916-bf75-65567de3b2a5.png width="120" height="120"> | <img src =https://user-images.githubusercontent.com/67897318/209684717-bd1cb2f0-0f07-43f0-94a2-08f91c0a76f8.jpeg width="120" height="120"> | <img src =https://avatars.githubusercontent.com/u/4508765? width="120" height="120">| <img src =https://user-images.githubusercontent.com/67897318/209684716-5baf27b0-c344-4a99-9c98-fc5e9089829d.png width="120" height="120"> | <img src =https://i.imgur.com/tpr5jcv.png width="120" height="120"> |  
