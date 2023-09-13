@@ -29,7 +29,7 @@
 ---
 
 ## 🗼 Architecture
-![ESC Structure drawio](https://drive.google.com/uc?export=view&id=1q9lEaJReMl7rtBkMqJ8_6g2zVrKygUHz)
+![ESC Structure drawio](https://drive.google.com/uc?export=view&id=1P9D_dcWXekuxtg0E6QEKcN43t8z_uSWK)
 
 ---
 
