@@ -24,7 +24,7 @@
 | <img src =https://avatars.githubusercontent.com/u/40691745 width="120" height="120"> | <img src =https://user-images.githubusercontent.com/49369306/195608027-5633bd06-1c29-4916-bf75-65567de3b2a5.png width="120" height="120"> | <img src =https://user-images.githubusercontent.com/67897318/209684717-bd1cb2f0-0f07-43f0-94a2-08f91c0a76f8.jpeg width="120" height="120"> | <img src =https://avatars.githubusercontent.com/u/4508765? width="120" height="120">| <img src =https://user-images.githubusercontent.com/67897318/209684716-5baf27b0-c344-4a99-9c98-fc5e9089829d.png width="120" height="120"> | <img src =https://i.imgur.com/tpr5jcv.png width="120" height="120"> |  
 |--|--|--|--|--|--|  
 |Front-End|Front-End|Front-End|Back-End|Back-End|Back-End|
-|[심상훈](https://github.com/SOPLAY)|[박석한](https://github.com/ill2sam)|[최수빈](https://github.com/Su-Bini)|[최병호](https://github.com/peppone-choi)|[조동현](https://github.com/jodonghyeon3)|[조현수](https://github.com/HyunsooZo)|
+|[심상훈](https://github.com/SOPLAY)|[박석한](https://github.com/ill2sam)|[박수빈](https://github.com/Su-Bini)|[최병호](https://github.com/peppone-choi)|[조동현](https://github.com/jodonghyeon3)|[조현수](https://github.com/HyunsooZo)|
 
 ---
 
