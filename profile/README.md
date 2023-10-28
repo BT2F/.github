@@ -67,17 +67,17 @@ Queosk는 식당 웨이팅과 주문 과정에서 발생하는 시간을 단축�
 
 ## 📱 Demo 앱 구현 (gif) 
 
-|                   🚀 소셜 로그인(카카오, 네이버, 구글)                  |                   🔍 위치기반 근처 식당 찾기                  | 
+|                   🚀 소셜 로그인(카카오)                  |                   🔍 위치기반 근처 식당 찾기                  | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209918245-4f292d9f-586a-495c-b69e-1c79eaf18632." alt="소셜 로그인" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918330-08383e54-5bd3-410d-a88c-5f3e65f42f1b." alt="주변 체육관 찾기" width=80%> | 
+| <img src="https://user-images.githubusercontent.com/99726297/209918245-4f292d9f-586a-495c-b69e-1c79eaf18632." alt="소셜 로그인" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918330-08383e54-5bd3-410d-a88c-5f3e65f42f1b." alt="주변 식당 찾기" width=80%> | 
 
 |                   💵 웨이팅 신청              |                   📝 리뷰 작성 / 수정                | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209918399-297de0ad-b7f1-4e47-b3e9-3f467a6444de." alt="체육관 예약 및 결제" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918489-28afd68e-aaa4-4b0a-8eb4-d5321e1833a2." alt="리뷰 작성" width=80%>  | 
+| <img src="https://user-images.githubusercontent.com/99726297/209918399-297de0ad-b7f1-4e47-b3e9-3f467a6444de." alt="웨이팅 신청" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918489-28afd68e-aaa4-4b0a-8eb4-d5321e1833a2." alt="리뷰 작성" width=80%>  | 
 
-|                   🔖 결제                 |                    🔔 알림 내역                  | 
+|                   🔖 결제                 |                    🔔 알림                   | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209920443-2df9d9bc-8167-42ba-bb4d-36bb22060164." alt="찜하기" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918729-3f985c32-732c-41cb-9e77-f6831e1ad408." alt="알림 내역" width=80%>  | 
+| <img src="https://user-images.githubusercontent.com/99726297/209920443-2df9d9bc-8167-42ba-bb4d-36bb22060164." alt="결제" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209918729-3f985c32-732c-41cb-9e77-f6831e1ad408." alt="알림 " width=80%>  | 
 
 |                   🧑🏻‍💻 판매자 회원가입                |                   🚀 판매자 일반 로그인                  | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
@@ -85,7 +85,7 @@ Queosk는 식당 웨이팅과 주문 과정에서 발생하는 시간을 단축�
 
 |                   🏋🏿 메뉴,테이블 등록 / 수정                  |                  ✅ 조리/웨이팅 현황                 | 
 | :----------------------------------------------------------: | :----------------------------------------------------------: | 
-| <img src="https://user-images.githubusercontent.com/99726297/209919918-dd6995a8-9d52-4d8c-975d-48cf15951797." alt="메뉴_테이블" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209919079-8040b259-5f73-4f11-bafe-deaa4b540e56." alt="웨이팅현황" width=80%>  | 
+| <img src="https://user-images.githubusercontent.com/99726297/209919918-dd6995a8-9d52-4d8c-975d-48cf15951797." alt="메뉴 등록" width=80%> | <img src="https://user-images.githubusercontent.com/99726297/209919079-8040b259-5f73-4f11-bafe-deaa4b540e56." alt="웨이팅현황" width=80%>  | 
 
 ---
 
