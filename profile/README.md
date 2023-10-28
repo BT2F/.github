@@ -61,7 +61,7 @@ Queosk는 식당 웨이팅과 주문 과정에서 발생하는 시간을 단축�
 
 ## ⚙️ Api 명세서
 
-[API 명세서](https://www.notion.so/byeoungho-choi/07dc8ae9d90d4e6eb28b3d768529f311?v=c79e81c4cc794cb994abab9243fb6aa4&pvs=4)
+[API 명세서](https://www.notion.so/byeoungho-choi/ad1ba6a2abd94f479a75eee0536e88eb?v=ae94c48ce235476a90eed4fe1930828d&pvs=4)
 
 ---
 
